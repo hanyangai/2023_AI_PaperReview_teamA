@@ -1,2 +1,2 @@
-# 2023 AI PapersReview teamA
-2023 AI Papers Review team A
+# 2023 AI PaperReview teamA
+2023 AI Paper Review team A
